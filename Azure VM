@@ -1,0 +1,1 @@
+Azure Virtual Machines (VM) are an IaaS (Infrastructure as a Service) offering which gives users full control over the operating system and installed software without having to worry about maintaining the underlying Hypervisor infrastructure. VM sizes can be categorised into the following top level workload specifications: 
